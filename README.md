@@ -5,8 +5,7 @@
 ## Project Overview 
 
 The policy memo was an entry to participate in the 2nd edition policy hacakthon organised by political science department in Babcock university and sponsored by Policy Shapers.
-[View Full Policy Memo](report/TeamLiteracy (1).pdf)
-[View Full Policy Memo](report/TeamLiteracy )
+[View Full Policy Memo](report/Team%20Literacy%20(1).pdf)
 
 **Team Name:** Team Literacy
 
