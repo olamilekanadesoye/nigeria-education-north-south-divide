@@ -2,18 +2,36 @@
 
 ---
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Problem Statement](#problem-statement)
+3. [My Role](my-role)
+4. [My Analytical Contribution](#my-analytical-contribution)
+5. [Key Findings](#key-findings)
+6. [My Recommendations](#my-recommendations)
+
+---
+
 ## Project Overview 
 
-The policy memo was an entry to participate in the 2nd edition policy hacakthon organised by political science department in Babcock university and sponsored by Policy Shapers.
-[View Full Policy Memo](report/Team%20Literacy%20(1).pdf)
+This policy memo was an entry for the 2nd edition policy hackathon competition organised by the Political Science Department at Babcock University (POLSSA) and sponsored by Policy Shapers. The memo addresses the unequal access to pre-tertiary education between Nigeria's Northern and Southern regions, and was formally directed to Dr. Morufu Olatunji Alausa, Honourable Minister of Education, as a call to policy action.
+
+**Title:** Uniform Policy, Unequal Access: A call to action to address the North-South divide in access to pre-tertiary education in Nigeria
 
 **Team Name:** Team Literacy
 
 **Team Members:** Adesoye Olamilekan Joshua (Team Leader), Ajibola Oluwademilade Benedict, Ezeh Jude Chukwuemeka, Nwazuluahu Brian, Nwofili Olisa Victor
 
-**Tool Used:** Google Sheet
+**Tool Used for analysis:** Google Sheet
 
 **Outcome:** 2nd Place
+
+[View Full Policy Memo](report/team-lieracy-policy-memo.pdf)
+
+---
+
+## Problem Statement
+Despite Nigeria's commitment to free and compulsory basic education under the Universal Basic Education (UBE) Act of 2004, the country holds the unfortunate record of having the highest number of out-of-school children in the world — 18.3 million children as of 2024 (UNICEF, 2024). This crisis is not evenly distributed. It falls heaviest on the North, where poverty, chronic underinvestment, insecurity, and deep-rooted gender norms work together to keep children — especially girls — out of school. In the North East and North West alone, nearly 66% of Nigeria's out-of-school children are concentrated, with girls' primary net attendance falling below 50% in both zones. Meanwhile, over N263 billion in UBEC matching grants sat unclaimed by December 2024 — not because the need does not exist, but because the states that need it most cannot meet the counterpart funding requirement. This memo argues that the North-South education divide is not a regional problem — it is a national emergency that demands urgent, structured policy intervention.
 
 ---
 
@@ -25,21 +43,27 @@ I served as the team leader and personally worked on the Evidence and Analysis s
 
 ## My Analytical Contribution
 
-- Computed out-of-school rates across all six geopolitical zones using UNICEF state-level data
-- Built Fig 1 (grouped bar chart) showing primary, junior, and senior secondary dropout rates by zone
-- Computed school infrastructure density (schools per 1,000 children) using UBEC 2022 data
-- Built Fig 2 (horizontal bar chart) revealing that a child in the North East has access to less than half the school infrastructure available in the South West
+**1. Out-of-School Rates**
+Analysed out-of-school rates across all six geopolitical zones using UNICEF state-level data and built Fig 1 (grouped bar chart) showing primary, junior, and senior secondary dropout rates by zone
+
+![Out of School Rates by Geopolitical Zone](visuals/fig1-out-of-school-rates.png)
+
+**2. School Infrastructure Deficit**
+Analysed school infrastructure density (schools per 1,000 children) using UBEC 2022 data and built Fig 2 (horizontal bar chart) revealing that a child in the North East has access to less than half the school infrastructure available in the South West
+
+![School Infrastructure Density by Zone](visuals/fig2-infrastructure-density.png)
 
 ---
 
 ## Key Findings
-- North East and North West have out-of-school rates of 43–53% across all school levels which is significanly higher than south region
-- All six geopolitical zones show a high out-of-school rate at the senior secondary school level - a finding that directly shaped Recommendation 5.
-- North West (1.64) and North East (1.58) show low density compared to South West (3.91) and South East (2.75) and this indicates a high school infrastructure deficit. A child that lives in the North East has access to less than half the school infrastructure that exists in the South West region.
+
+1. North East and North West have out-of-school rates of 43–53% across all school levels which is significanly higher than south region. One in two school-age children in these zones is not in school. Also, all six geopolitical zones show a high out-of-school rate at the senior secondary school level - a finding that directly shaped Recommendation 5.
+2. North West (1.64) and North East (1.58) show low density compared to South West (3.91) and South East (2.75) and this indicates a high school infrastructure deficit. A child that lives in the North East has access to less than half the school infrastructure that exists in the South West region.
+
 
 ---
 
-## My Recomendations
+## My Recommendations
 
 1. Reform Funding Structure: Many states in the North cannot access UBE intervention funds due to weak economic power. Funding is crucial ensuring young children access to education as it finances school constructions, teacher training, and learning materials. Hence, much attention should be paid to this root cause of North-South divide.
 1.1 Low IGR states in the North East and North West such as Yobe, Ebonyi, Kebbi, Taraba, Adamawa, e.t.c, should be given less strict conditional rules to access intervention funds. The compulsory counterpart contribution can be reduced from 50% to 20% for these states.
