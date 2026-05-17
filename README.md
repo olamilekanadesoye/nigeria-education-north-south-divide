@@ -5,6 +5,8 @@
 ## Project Overview 
 
 The policy memo was an entry to participate in the 2nd edition policy hacakthon organised by political science department in Babcock university and sponsored by Policy Shapers.
+[View Full Policy Memo](report/TeamLiteracy (1).pdf)
+[View Full Policy Memo](report/TeamLiteracy )
 
 **Team Name:** Team Literacy
 
@@ -38,7 +40,7 @@ I served as the team leader and personally worked on the Evidence and Analysis s
 
 ---
 
-## My Reccomendations
+## My Recomendations
 
 1. Reform Funding Structure: Many states in the North cannot access UBE intervention funds due to weak economic power. Funding is crucial ensuring young children access to education as it finances school constructions, teacher training, and learning materials. Hence, much attention should be paid to this root cause of North-South divide.
 1.1 Low IGR states in the North East and North West such as Yobe, Ebonyi, Kebbi, Taraba, Adamawa, e.t.c, should be given less strict conditional rules to access intervention funds. The compulsory counterpart contribution can be reduced from 50% to 20% for these states.
